@@ -1,8 +1,9 @@
 {
-  "name": "moonbloom-x",
-  "displayName": "moonbloom-x",
+  "name": "moonbloom-theme",
+  "displayName": "Moonbloom Official Theme",
   "description": "",
-  "version": "0.0.1",
+  "publisher": "Moonbloom",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -12,10 +13,35 @@
   "contributes": {
     "themes": [
       {
-        "label": "Moonbloom Dark Theme",
+        "label": "Moonbloom Official Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Moonbloom Dark Theme-color-theme.json"
+        "path": "./themes/moonbloom.json"
       }
     ]
+  },
+  "license": "MIT",
+  "maintainers": [
+    "Igor Teplostanski"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moonbloom-theme/visual-studio-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moonbloom-theme/visual-studio-code/issues"
+  },
+  "keywords": [
+    "moonbloom",
+    "dark",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1D1E27",
+    "theme": "dark"
+  },
+  "__metadata": {
+    "size": 92613
   }
 }

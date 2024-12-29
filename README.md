@@ -1,16 +1,34 @@
-# moonbloom-x README
+<div align="center">
+  <h1>Moonbloom for <a href="http://code.visualstudio.com">Visual Studio Code</a></h1>
+  <p>Gentle on the eyes, evoking the cozy tranquility of a serene night.</p>
+  <span><a href="https://github.com/moonbloom-theme/moonbloom">Homepage</a> • <a href="https://moonbloom.teplostanski.dev">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a> • <a href="https://donate.teplostanski.dev">Support Us</a></span>
+</div>
 
-## Working with Markdown
+<br/>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+> [Visual Studio Code](http://code.visualstudio.com) commonly referred to as VS Code, is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<!--<img width="720px" src="./screen.png">-->
 
-## For more information
+## Install
+See [INSTALL.md](./INSTALL.md)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Team
 
-**Enjoy!**
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/moonbloom-theme/visual-studio-code/graphs/contributors).
+
+<!--CONTRIBUTORS_TABLE--><table><tr>
+  <td align="center">
+    <a href="https://github.com/teplostanski" title="Игорь Теплостанский">
+      <img src="https://avatars.githubusercontent.com/u/56846024?v=4" width="42;" alt="Игорь Теплостанский"/>
+    <br /><sub><b>Игорь Теплостанский</b></sub>
+    </a>
+  </td>
+</tr></table><!--CONTRIBUTORS_TABLE-END-->
+
+</br>
+
+<p align="center">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/visual-studio-code?style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/moonbloom-theme/visual-studio-code?include_prereleases&display_name=release&style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
+</p>
