@@ -1,9 +1,16 @@
 {
   "name": "moonbloom-theme",
   "displayName": "Moonbloom Official Theme",
-  "description": "",
+  "description": "Gentle on the eyes, evoking the cozy tranquility of a serene night.",
   "publisher": "Moonbloom",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "scripts": {
+    "convert-colors": "node ./scripts/convert-color-hex-to-uppercase.cjs ./color-schema.js && node ./scripts/convert-color-hex-to-uppercase.cjs ./themes/moonbloom.json",
+    "vsce-publish": "vsce publish",
+    "ovsx-publish": "ovsx publish",
+    "prepublish": "npm run convert-colors",
+    "publish": "npm run vsce-publish && npm run ovsx-publish"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -43,5 +50,9 @@
   },
   "__metadata": {
     "size": 92613
+  },
+  "devDependencies": {
+    "ovsx": "^0.10.1",
+    "vsce": "^2.15.0"
   }
 }
