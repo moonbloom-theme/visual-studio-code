@@ -1,9 +1,12 @@
 # Change Log
 
-All notable changes to the "moonbloom-theme" extension will be documented in this file.
+## [1.1.0]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Minor
+- Added new color settings and modified existing ones for better readability
+- Added the installation instructions to the `INSTALL.md` file
 
-## [Unreleased]
+## [1.0.2]
 
-- Initial release
+### Patch
+- Added scripts to `package.json`

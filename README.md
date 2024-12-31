@@ -8,7 +8,7 @@
 
 > [Visual Studio Code](http://code.visualstudio.com) commonly referred to as VS Code, is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers.
 
-<!--<img width="720px" src="./screen.png">-->
+<img width="720px" src="./screen.png">
 
 ## Install
 See [INSTALL.md](./INSTALL.md)
