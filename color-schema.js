@@ -12,7 +12,7 @@ const colorSchema = {
   comment: '#8282A9',
   disabled: '#7B7B9F',
   dark: {
-    default: '#1A1B21',
+    default: '#191A21',
     bright: '#8282A9',
   },
   red: {
