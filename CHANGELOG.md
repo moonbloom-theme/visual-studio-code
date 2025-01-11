@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.1]
+
+### Patch
+- Fixed colors related to findMatch
+- Changed button colors
+
 ## [1.1.0]
 
 ### Minor
