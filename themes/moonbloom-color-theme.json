@@ -120,17 +120,24 @@
     "editor.wordHighlightStrongBackground": "#C993E900",
     "editor.wordHighlightStrongBorder": "#C993E960",
 
-    "editor.findMatchBackground": "#D9B469",
-    "editor.findMatchBorder": "#D9B469",
-    "editor.findMatchHighlightBackground": "#9291DCfd",
-    "editor.findMatchHighlightBorder": "#8483D800",
+    "editor.findMatchBackground": "#191a21cc",
+    "editor.findMatchBorder": "#8c8bd1",
+    "editor.findMatchHighlightBackground": "#9291dc30",
+    "editor.findMatchHighlightBorder": "#8c8bd1",
 
-    "editor.findMatchForeground": "#191A21",
+    "editor.findMatchForeground": "#D1D2E8",
 
-    "editor.findMatchHighlightForeground": "#191A21fd",
+    "editor.findMatchHighlightForeground": "#E1E2EDdd",
+    
+    "searchEditor.findMatchBackground": "#8282A930",
+    "searchEditor.findMatchBorder": "#9291dc60",
+    
+    "editorWidget.foreground": "#D1D2E8",
+    
+    //"listFilterWidget.outline": "#0400ff",
 
-    //"editor.findRangeHighlightBackground": "#ff0000f0",
-    //"editor.findRangeHighlightBorder": "#ff0000f0",
+    //"editorOverviewRuler.findMatchForeground": "#9291dccc",
+    //"editorOverviewRuler.rangeHighlightForeground": "#001afff0",
 
     "editor.hoverHighlightBackground": "#8282A930",
     "editor.lineHighlightBackground": "#25262f",
@@ -138,7 +145,8 @@
 
     "editorLink.activeForeground": "#6EB4E0",
 
-    "editor.rangeHighlightBackground": "#8282A930",
+    "editor.rangeHighlightBackground": "#8282a900",
+    "editor.rangeHighlightBorder": "#8282a960",
     "editorWhitespace.foreground": "#3F3F52",
     "editorIndentGuide.background1": "#9B9BBA52",
     "editorIndentGuide.activeBackground1": "#9B9BBA",
