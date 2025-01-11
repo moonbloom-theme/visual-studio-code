@@ -5,7 +5,7 @@
   "publisher": "Moonbloom",
   "version": "1.1.1",
   "scripts": {
-    "convert-colors": "node ./scripts/convert-color-hex-to-uppercase.cjs ./color-schema.js && node ./scripts/convert-color-hex-to-uppercase.cjs ./themes/moonbloom.json",
+    "convert-colors": "node ./scripts/convert-color-hex-to-uppercase.cjs ./color-schema.js && node ./scripts/convert-color-hex-to-uppercase.cjs ./themes/moonbloom-color-theme.json",
     "vsce-publish": "vsce publish",
     "ovsx-publish": "ovsx publish",
     "prepublish-theme": "npm run convert-colors",

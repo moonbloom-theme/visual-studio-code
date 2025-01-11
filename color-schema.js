@@ -8,7 +8,7 @@ const colorSchema = {
     default: '#1D1E27',
   },
   foreground: '#D1D2E8',
-  border: ['#3F3F52', '#6464a0', '#8c8bd1'],
+  border: ['#3F3F52', '#6464A0', '#8C8BD1'],
   comment: '#8282A9',
   disabled: '#7B7B9F',
   dark: {

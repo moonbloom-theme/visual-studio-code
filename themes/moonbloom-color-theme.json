@@ -16,8 +16,8 @@
     // ---
 
     "contrastActiveBorder": "default",
-    "contrastBorder": "#52526a",
-    "focusBorder": "#6464a0",
+    "contrastBorder": "#52526A",
+    "focusBorder": "#6464A0",
     "foreground": "#E1E2ED",
     "widget.shadow": "#191A21",
     "selection.background": "#5A9BCF60",
@@ -45,7 +45,7 @@
     "scrollbar.shadow": "#3F3F52",
     "scrollbarSlider.activeBackground": "#3D3D50",
     "scrollbarSlider.background": "#3D3D5060",
-    "scrollbarSlider.hoverBackground": "#3d3d50aa",
+    "scrollbarSlider.hoverBackground": "#3D3D50AA",
     // ---
     
     // Badge
@@ -84,7 +84,7 @@
     "sideBarSectionHeader.background": "#1D1E27",
     "sideBarSectionHeader.foreground": "#9B9BBA",
     //"editorGroup.background": "#1B1C24",
-    "editorGroup.border": "#6464a0",
+    "editorGroup.border": "#6464A0",
     "editorGroup.dropBackground": "#8483D870",
     "editorGroupHeader.noTabsBackground": "#1D1E27",
     "editorGroupHeader.tabsBackground": "#191A21",
@@ -111,42 +111,42 @@
     // ---
     "editor.selectionBackground": "#BB83D85A",
 
-    "editor.selectionHighlightBackground": "#292936f0",
+    "editor.selectionHighlightBackground": "#292936F0",
     "editor.selectionHighlightBorder": "#D1D2E8",
-    "editor.inactiveSelectionBackground": "#3D3D50cc",
+    "editor.inactiveSelectionBackground": "#3D3D50CC",
     "editor.wordHighlightBackground": "#29293615",
-    "editor.wordHighlightBorder": "#8282A9aa",
+    "editor.wordHighlightBorder": "#8282A9AA",
     "editor.wordHighlightTextBackground": "#29293615",
     "editor.wordHighlightStrongBackground": "#C993E900",
     "editor.wordHighlightStrongBorder": "#C993E960",
 
-    "editor.findMatchBackground": "#191a21cc",
-    "editor.findMatchBorder": "#8c8bd1",
-    "editor.findMatchHighlightBackground": "#9291dc30",
-    "editor.findMatchHighlightBorder": "#8c8bd1",
+    "editor.findMatchBackground": "#191A21CC",
+    "editor.findMatchBorder": "#8C8BD1",
+    "editor.findMatchHighlightBackground": "#9291DC30",
+    "editor.findMatchHighlightBorder": "#8C8BD1",
 
     "editor.findMatchForeground": "#D1D2E8",
 
-    "editor.findMatchHighlightForeground": "#E1E2EDdd",
+    "editor.findMatchHighlightForeground": "#E1E2EDDD",
     
     "searchEditor.findMatchBackground": "#8282A930",
-    "searchEditor.findMatchBorder": "#9291dc60",
+    "searchEditor.findMatchBorder": "#9291DC60",
     
     "editorWidget.foreground": "#D1D2E8",
     
-    //"listFilterWidget.outline": "#0400ff",
+    //"listFilterWidget.outline": "#0400FF",
 
-    //"editorOverviewRuler.findMatchForeground": "#9291dccc",
-    //"editorOverviewRuler.rangeHighlightForeground": "#001afff0",
+    //"editorOverviewRuler.findMatchForeground": "#9291DCCC",
+    //"editorOverviewRuler.rangeHighlightForeground": "#001AFFF0",
 
     "editor.hoverHighlightBackground": "#8282A930",
-    "editor.lineHighlightBackground": "#25262f",
+    "editor.lineHighlightBackground": "#25262F",
     "editor.lineHighlightBorder": "#292936",
 
     "editorLink.activeForeground": "#6EB4E0",
 
-    "editor.rangeHighlightBackground": "#8282a900",
-    "editor.rangeHighlightBorder": "#8282a960",
+    "editor.rangeHighlightBackground": "#8282A900",
+    "editor.rangeHighlightBorder": "#8282A960",
     "editorWhitespace.foreground": "#3F3F52",
     "editorIndentGuide.background1": "#9B9BBA52",
     "editorIndentGuide.activeBackground1": "#9B9BBA",
@@ -157,7 +157,7 @@
     "editorOverviewRuler.commonContentForeground": "#BB83D8",
     "editorError.foreground": "#E66D75",
     "editorError.border": "default",
-    "editorWarning.foreground": "#D9B469cc",
+    "editorWarning.foreground": "#D9B469CC",
     "editorWarning.border": null,
     "editorGutter.background": "#1D1E27",
     "editorGutter.modifiedBackground": "#E8C87E",
@@ -181,7 +181,7 @@
     "debugExceptionWidget.border": "#9B9BBA",
     "editorMarkerNavigation.background": "#2D333F",
     "editorMarkerNavigationError.background": "#E66D75",
-    "editorMarkerNavigationWarning.background": "#D9B469cc",
+    "editorMarkerNavigationWarning.background": "#D9B469CC",
     "peekView.border": "#9B9BBA",
     "peekViewEditor.background": "#1D1E27",
     "peekViewEditor.matchHighlightBackground": "#BB83D85A",
