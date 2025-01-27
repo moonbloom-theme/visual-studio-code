@@ -3,7 +3,7 @@
   "displayName": "Moonbloom Official Theme",
   "description": "Gentle on the eyes, evoking the cozy tranquility of a serene night.",
   "publisher": "Moonbloom",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "scripts": {
     "convert-colors": "node ./scripts/convert-color-hex-to-uppercase.cjs ./color-schema.js && node ./scripts/convert-color-hex-to-uppercase.cjs ./themes/moonbloom-color-theme.json",
     "vsce-publish": "vsce publish",

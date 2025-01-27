@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.2]
+
+### Patch
+- Fixed colors related to findMatch
+- Fixed Cursor editor compatibility
+
 ## [1.1.1]
 
 ### Patch

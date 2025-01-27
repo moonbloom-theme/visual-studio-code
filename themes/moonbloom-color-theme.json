@@ -120,14 +120,14 @@
     "editor.wordHighlightStrongBackground": "#C993E900",
     "editor.wordHighlightStrongBorder": "#C993E960",
 
-    "editor.findMatchBackground": "#191a2190",
+    "editor.findMatchBackground": "#191A2190",
     "editor.findMatchBorder": "#6EB4E0",
     "editor.findMatchHighlightBackground": "#9291DC10",
     "editor.findMatchHighlightBorder": "#8C8BD1",
 
-    "editor.findMatchForeground": "#e1e2edee",
+    "editor.findMatchForeground": "#E1E2EDEE",
 
-    "editor.findMatchHighlightForeground": "#e1e2edee",
+    "editor.findMatchHighlightForeground": "#E1E2EDEE",
     
     "searchEditor.findMatchBackground": "#8282A930",
     "searchEditor.findMatchBorder": "#9291DC60",
@@ -136,7 +136,7 @@
     
     //"listFilterWidget.outline": "#0400FF",
 
-    "editorOverviewRuler.findMatchForeground": "#6EB4E0ee",
+    "editorOverviewRuler.findMatchForeground": "#6EB4E0EE",
     //"editorOverviewRuler.rangeHighlightForeground": "#001AFFF0",
 
     "editor.hoverHighlightBackground": "#8282A930",
